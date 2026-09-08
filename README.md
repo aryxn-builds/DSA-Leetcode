@@ -35,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
