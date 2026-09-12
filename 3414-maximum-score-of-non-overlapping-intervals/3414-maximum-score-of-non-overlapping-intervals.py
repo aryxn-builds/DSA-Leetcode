@@ -10,10 +10,8 @@ class Solution:
         n = len(arr)
         starts = [x[0] for x in arr]
 
-        # Find next non-overlapping interval
         nxt = [bisect_right(starts, r) for _, r, _, _ in arr]
 
-        # dp[i][k] = best (score, indices)
         dp = [[(0, []) for _ in range(5)] for _ in range(n + 1)]
 
         for i in range(n - 1, -1, -1):
