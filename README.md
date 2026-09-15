@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0039-combination-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0039-combination-sum) |
 | [0835-image-overlap](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0835-image-overlap) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Search
