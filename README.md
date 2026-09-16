@@ -46,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1922-count-good-numbers) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0836-rectangle-overlap](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1922-count-good-numbers](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1922-count-good-numbers) |
 | [3870-count-commas-in-range](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Divide and Conquer
