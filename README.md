@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0090-subsets-ii) |
 ## Bracket Sequences
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0090-subsets-ii) |
 | [0835-image-overlap](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0835-image-overlap) |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
