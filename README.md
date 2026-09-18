@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0836-rectangle-overlap) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0231-power-of-two) |
 ## Sliding Window
