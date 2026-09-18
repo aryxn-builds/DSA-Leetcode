@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0231-power-of-two) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sliding Window
 |  |
 | ------- |
