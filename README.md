@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0090-subsets-ii) |
 ## Bracket Sequences
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0090-subsets-ii) |
 | [0835-image-overlap](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0835-image-overlap) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
