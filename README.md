@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1922-count-good-numbers](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1922-count-good-numbers) |
 | [3870-count-commas-in-range](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/3870-count-commas-in-range) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Greedy
 |  |
 | ------- |
