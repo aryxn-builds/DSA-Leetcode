@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0079-word-search) |
+| [1254-number-of-closed-islands](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0835-image-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1046-last-stone-weight) |
+| [1254-number-of-closed-islands](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Geometry
 |  |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Segment Tree
 |  |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
