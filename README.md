@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0621-task-scheduler](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0621-task-scheduler) |
 | [1096-brace-expansion-ii](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1096-brace-expansion-ii](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0621-task-scheduler) |
 | [0835-image-overlap](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0835-image-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1046-last-stone-weight) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1046-last-stone-weight) |
 ## Quickselect
@@ -331,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
