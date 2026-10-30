@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1046-last-stone-weight) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Quickselect
 |  |
 | ------- |
@@ -348,4 +350,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0621-task-scheduler) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
