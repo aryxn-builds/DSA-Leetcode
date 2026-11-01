@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0355-design-twitter](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0621-task-scheduler) |
 | [1096-brace-expansion-ii](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0355-design-twitter](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0355-design-twitter) |
 ## Two Pointers
 |  |
 | ------- |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0355-design-twitter](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1046-last-stone-weight) |
@@ -363,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Design
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
