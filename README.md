@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1096-brace-expansion-ii](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1096-brace-expansion-ii) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0621-task-scheduler) |
 | [0835-image-overlap](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0835-image-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
