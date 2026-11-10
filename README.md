@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0125-valid-palindrome) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0231-power-of-two) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0043-multiply-strings) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Ordered Set
 |  |
