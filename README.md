@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2013-detect-squares](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/2013-detect-squares) |
 | [2747-count-zero-request-servers](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2013-detect-squares](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/2013-detect-squares) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2747-count-zero-request-servers](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0621-task-scheduler) |
 | [1267-count-servers-that-communicate](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1267-count-servers-that-communicate) |
+| [2013-detect-squares](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/2013-detect-squares) |
 ## Graph Theory
 |  |
 | ------- |
@@ -414,10 +417,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0355-design-twitter) |
+| [2013-detect-squares](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/2013-detect-squares) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [2013-detect-squares](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/2013-detect-squares) |
 ## Simulation
 |  |
 | ------- |
