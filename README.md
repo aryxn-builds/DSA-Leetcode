@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
+| [0198-house-robber](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
