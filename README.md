@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0355-design-twitter](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0621-task-scheduler) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0090-subsets-ii) |
+| [0139-word-break](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0139-word-break) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
@@ -472,4 +477,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
