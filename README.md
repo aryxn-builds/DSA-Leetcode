@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/aryxn-builds/DSA-Leetcode/tree/master/0338-counting-bits) |
